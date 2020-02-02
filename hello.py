@@ -1,1 +1,10 @@
-print('1024 * 768 =' ,1024 * 768)
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+n = 123
+f = 456.789
+s1 = 'Hello, world'
+s2 = 'Hello, \'Adam\''
+s3 = r'Hello, "Bart"'
+s4 = r'''Hello,
+Lisa!'''
+print(n,f,s1,s2,s3,s4)
